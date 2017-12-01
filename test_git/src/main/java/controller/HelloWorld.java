@@ -1,0 +1,8 @@
+package controller;
+
+public class HelloWorld {
+	
+	public String hello(){
+		return "hello world";
+	}
+}
